@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "supereo": {
+      "httpUrl": "https://supereo.app/api/mcp"
+    }
+  }
+}

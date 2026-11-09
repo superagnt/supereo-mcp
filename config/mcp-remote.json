@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "supereo": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://supereo.app/api/mcp"]
+    }
+  }
+}
