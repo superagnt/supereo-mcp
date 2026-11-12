@@ -67,7 +67,7 @@ Every tool acts as the person who connected it: it reads and changes only that p
 
 ## Start with the free audit
 
-Your agent runs it: `start_audit` audits your site as you (20 buyer questions on six AI engines, about a minute, no card), `get_audit` gives its results, and the audit is yours, so `get_visibility` and the other result tools read it too. [supereo.app](https://supereo.app) runs the same audit in your browser. `get_next_step` then says what comes next: the link to start your plan, where you enter your card yourself on Stripe's page, then connecting your site. How supereo grades a change, with every number it runs on: [How supereo measures](https://supereo.app/how-we-measure).
+Your agent runs it: `start_audit` audits your site as you (20 buyer questions on five AI engines, about a minute, no card), `get_audit` gives its results, and the audit is yours, so `get_visibility` and the other result tools read it too. [supereo.app](https://supereo.app) runs the same audit in your browser. `get_next_step` then says what comes next: the link to start your plan, where you enter your card yourself on Stripe's page, then connecting your site. How supereo grades a change, with every number it runs on: [How supereo measures](https://supereo.app/how-we-measure).
 
 Skills that walk your agent through all of this, as the supereo plugin for Claude Code, and the three free tools as a CLI or a local MCP server: [superagnt/supereo-audit](https://github.com/superagnt/supereo-audit).
 
