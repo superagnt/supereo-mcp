@@ -2,7 +2,7 @@
   "mcpServers": {
     "supereo": {
       "type": "streamable-http",
-      "serverUrl": "https://supereo.app/api/mcp"
+      "serverUrl": "https://mcp.supereo.app/mcp"
     }
   }
 }

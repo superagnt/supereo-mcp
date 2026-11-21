@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "supereo": {
-      "url": "https://supereo.app/api/mcp"
+      "url": "https://mcp.supereo.app/mcp"
     }
   }
 }

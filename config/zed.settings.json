@@ -2,7 +2,7 @@
   "context_servers": {
     "supereo": {
       "source": "url",
-      "url": "https://supereo.app/api/mcp"
+      "url": "https://mcp.supereo.app/mcp"
     }
   }
 }
